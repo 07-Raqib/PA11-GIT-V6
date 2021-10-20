@@ -418,6 +418,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1463787808437579697, guid: fb24a85713fb4468d9863edb28f8915e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1463787809973413829, guid: fb24a85713fb4468d9863edb28f8915e,
         type: 3}
       propertyPath: m_AnchorMin.x
@@ -545,6 +550,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6797707251832315064, guid: 16d5b2ebf4f744dca99b6e63dd7e67fd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 16d5b2ebf4f744dca99b6e63dd7e67fd, type: 3}
@@ -736,6 +746,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Spawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 2089166828756779803, guid: 906a1ca3fee284ecd8ab531ca4dcd14c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 906a1ca3fee284ecd8ab531ca4dcd14c, type: 3}
