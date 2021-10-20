@@ -24,7 +24,7 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(transform.position.x, -4, transform.position.z);
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider collision)
     {
         if (collision.gameObject.CompareTag("Obstacle"))
         {
