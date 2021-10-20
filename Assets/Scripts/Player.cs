@@ -34,6 +34,6 @@ public class Player : MonoBehaviour
     public void AddScore(int addScore)
     {
         score += addScore;
-        txt_score.text = "Score: "+ score;
+        txt_score.text = "Score:  "+ score;
     }
 }
